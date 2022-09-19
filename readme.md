@@ -14,3 +14,7 @@
 s = " Python Syntax highlighting"
 print(s)
 
+```
+| 左 | 中 | 右 |
+| :-------| :----: | ------: |
+| 1 | 2 | 3 |
