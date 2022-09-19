@@ -7,8 +7,8 @@
 
 😄 ☀️
 ![nkust](nkust.png "nkust")
--[ ] todo list
--[x] done
+- [ ] todo list
+- [x] done
 
 ```python
 s = " Python Syntax highlighting"
